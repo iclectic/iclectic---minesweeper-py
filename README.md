@@ -1,7 +1,5 @@
 # Minesweeper Game in Python
 
-![Minesweeper](minesweeper.png)
-
 This Python program implements the classic Minesweeper game. It allows you to play the game in the console, revealing tiles and avoiding hidden mines. The program uses object-oriented programming principles to create and manage the game board.
 
 ## Table of Contents
@@ -10,8 +8,7 @@ This Python program implements the classic Minesweeper game. It allows you to pl
 - [Getting Started](#getting-started)
 - [How to Play](#how-to-play)
 - [Game Controls](#game-controls)
-- [Author](#author)
-- [License](#license)
+
 
 ## Features
 
